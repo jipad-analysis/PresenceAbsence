@@ -176,9 +176,6 @@ calibration.plot<-function(	DATA,
 					BinPred=BinPred,
 					BinObsCIlower=Lower,
 					BinObsCIupper=Upper)
-
-	return(output)
-
 }
 
 
